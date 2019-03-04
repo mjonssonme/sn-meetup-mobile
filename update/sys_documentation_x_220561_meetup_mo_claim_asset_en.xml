@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="asset" label="Asset" language="en" table="x_220561_meetup_mo_claim">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <help/>
+            <hint/>
+            <label>Asset</label>
+            <language>en</language>
+            <name>x_220561_meetup_mo_claim</name>
+            <plural>Assets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 09:13:27</sys_created_on>
+            <sys_id>bcc601a4dbc43300d7e2d6aa489619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Asset</sys_name>
+            <sys_package display_value="Meetup Mobile" source="x_220561_meetup_mo">4ea59654db003300d7e2d6aa489619ee</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Meetup Mobile">4ea59654db003300d7e2d6aa489619ee</sys_scope>
+            <sys_update_name>sys_documentation_x_220561_meetup_mo_claim_asset_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 09:13:27</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
